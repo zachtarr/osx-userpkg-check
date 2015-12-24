@@ -12,5 +12,4 @@ For now, this can run this via ARD against multiple machines.
 # Future plans
 I'm planning on making this into a pre-install script for Munki, which will streamline the process a little more.
 
-This is my first venture into writing my own Shell scripts. Any feedback is welcome.
-
+This is my first venture into writing my own Shell scripts. Hopefully this code makes sense.
