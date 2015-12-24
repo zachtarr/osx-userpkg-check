@@ -8,8 +8,8 @@ I wanted to create one consistent local admin account across many Macs. I create
 It first checks if there is a home folder that matches the short name given, then compares a given UID and UUID to those of the local account on a Mac. It either reports back a conflict, or it gives you the go-ahead to install the package.
 
 # How this works.
-1) Edit the variables at the top of the script to fit your needs.
-2) Either run the script locally, or via ARD.
+- Edit the variables at the top of the script to fit your needs.
+- Either run the script locally, or via ARD.
 
 # Future plans
 I'm planning on making this into a pre-install script for Munki, which will streamline the process a little more.
