@@ -1,4 +1,4 @@
-#!/bin/bash
+#/bin/bash
 
 # Lets declare some variables.
 SHORTNAME="vandelay_admin"
