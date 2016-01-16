@@ -9,7 +9,4 @@ It first checks to see if an account with the given shortname exists. If it does
 
 # How this works.
 - Edit the variables at the top of the script to fit your needs.
-- Either run the script locally, via ARD, or use it as an [Preinstall Script](https://github.com/munki/munki/wiki/Pre-And-Postinstall-Scripts) in Munki.
-
-# Disclaimer
-Use this at your own risk. I have no idea what I'm doing.
+- Either run the script locally, via ARD, or use it as an [Install Check Script](https://github.com/munki/munki/wiki/How-Munki-Decides-What-Needs-To-Be-Installed#install-check-script) in Munki.
